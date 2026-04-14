@@ -1,2 +1,7 @@
 turbopuffer
+fastembed
+datasets
 python-dotenv
+numpy
+pandas
+jupyter
