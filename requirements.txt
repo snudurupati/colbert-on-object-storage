@@ -1,0 +1,2 @@
+turbopuffer
+python-dotenv
