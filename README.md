@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 3. Create a `.env` file with your turbopuffer API key:
 
-TURBOPUFFER_API_KEY=your_key_here
+```TURBOPUFFER_API_KEY=your_key_here```
 
 4. Open and run `late_interaction_turbopuffer.ipynb`
 
